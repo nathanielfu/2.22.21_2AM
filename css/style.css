@@ -4,69 +4,47 @@ body{
   font-family: 'Montserrat', sans-serif;
 }
 h1{
-  color: #00FACC;
+  color: #BEAEE2;
   font-family: 'Satisfy', cursive;
   font-size: 4rem;
 }
-h2{
-  margin: 75px auto;
-  text-align: center;
+h3{
+  font-family: 'Satisy', cursive;
+  margin: auto;
 }
+
 hr{
-border:dotted #CDF0EA 6px;
+border:dotted #BEAEE2 6px;
 border-bottom: none;
 width:15%;
 margin: 50px auto;
+}
+img{
+
+  max-width:20%;
+    height:auto;
 }
 .top-container{
   position:relative;
   padding: 120px;
     background-color: #CDF0EA;
 }
-.second{
-  margin-top: 10px;
-  width:75%;
-}
-.third{
-  margin-top: 100px;
-}
+
 .fourth{
-  position: absolute;
   background-color: #F7DBF0;
 }
 .fifth{
   background-color:#BEAEE2;
 }
-.facetime{
-  max-width:25%;
-    height:auto;
-    float:right;
-    margin-right: 30px;
-}
+
 .wallpaper{
   max-width:40%;
     height:auto;
     text-align: center;
 }
-.screenshot{
-  max-width:25%;
-    height:auto;
-    float: left;
-    margin-left: 30px;
+
+.mensa{
+  margin-left: auto;
+  margin-right: auto;
 }
-.squish{
-  max-width: 20%;
-  height:auto;
-  float:left;
-  margin-right: 30px;
-}
-.pinkm{
-  max-width:20%;
-    height:auto;
-    float: right;
-    margin-right: 30px;
-}
-.sendy{
-  max-width:20%;
-    height:auto;
-}
+
