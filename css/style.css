@@ -2,9 +2,10 @@ body{
   margin:0;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
+
 }
 h1{
-  color: #BEAEE2;
+  color: #85F2E0;
   font-family: 'Satisfy', cursive;
   font-size: 4rem;
 }
@@ -27,16 +28,18 @@ img{
 .top-container{
   position:relative;
   padding: 120px;
-    background-color: #CDF0EA;
+    background:radial-gradient(#CDF0EA, #85F2E0);
 }
 
 .fourth{
-  background-color: #F7DBF0;
+  background:radial-gradient(#F7DBF0, #F993DF);
 }
 .fifth{
-  background-color:#BEAEE2;
+  background:radial-gradient(#BEAEE2, #926DE8);
 }
-
+.box{
+  background-color: white;
+}
 .wallpaper{
   max-width:40%;
     height:auto;
@@ -47,4 +50,3 @@ img{
   margin-left: auto;
   margin-right: auto;
 }
-
